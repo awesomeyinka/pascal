@@ -1,6 +1,6 @@
 # Pascal
 
-Single page landing page for an artst that makes hand made pen portraits.
+Single page landing page for an artist that makes hand made pen portraits.
 
 [Live Demo](https://awesome-pascal.netlify.app)
 
