@@ -1,24 +1,14 @@
 # Pascal
 
-Single page landing page for an artst that makes hand made pen portraits.
+Single page landing page for an artst that makes hand made pen portraits. uilt with HTML & CSS.
 
-[Live Demo](https://awesome-pascal.netlify.app)
+[Live Demo](https://awesomepascal.netlify.app)
 
 ![Screenshot](pascal-screenshot.png)
 
-## Building and running on localhost
+## Credits
 
-First install dependencies:
-
-```sh
-yarn install
-```
-
-To create a production build:
-
-```sh
-yarn build
-```
+[Lynn Fisher](https://codepen.io/lynnandtonic/pen/PoZpjOr) for css poster effect
 
 ## License
 
