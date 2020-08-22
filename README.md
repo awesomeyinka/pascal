@@ -1,6 +1,6 @@
 # Pascal
 
-Single page landing page for an artst that makes hand made pen portraits. uilt with HTML & CSS.
+Single page landing page for an artist that makes hand made pen portraits. Built with HTML & CSS.
 
 [Live Demo](https://awesomepascal.netlify.app)
 
